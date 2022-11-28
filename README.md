@@ -1,2 +1,4 @@
-# cardGame
-Simple card game created in class
+
+I simple card game.
+
+Not finished
